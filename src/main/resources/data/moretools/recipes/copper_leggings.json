@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ "ccc", "c c", "c c" ],
+    "key": {
+        "c": {
+            "item": "moretools:copper"
+        }
+    },
+    "result": {
+        "item": "moretools:copper_leggings",
+        "count": 1
+    }
+}

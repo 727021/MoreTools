@@ -1,0 +1,19 @@
+{
+    "item.moretools.copper": "Copper",
+
+    "block.moretools.copper_ore": "Copper Ore",
+    "block.moretools.copper_block": "Copper Block",
+
+    "item.moretools.copper_pickaxe": "Copper Pickaxe",
+    "item.moretools.copper_shovel": "Copper Shovel",
+    "item.moretools.copper_axe": "Copper Axe",
+    "item.moretools.copper_hoe": "Copper Hoe",
+    "item.moretools.copper_sword": "Copper Sword",
+
+    "item.moretools.copper_helmet": "Copper Helmet",
+    "item.moretools.copper_chestplate": "Copper Chestplate",
+    "item.moretools.copper_leggings": "Copper Leggings",
+    "item.moretools.copper_boots": "Copper Boots",
+
+    "itemGroup.moretools_tab": "More Tools"
+}

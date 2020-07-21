@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ "cc", "sc", "s " ],
+    "key": {
+        "c": {
+            "item": "moretools:copper"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "moretools:copper_axe",
+        "count": 1
+    }
+}

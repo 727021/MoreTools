@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ "ccc", " s ", " s " ],
+    "key": {
+        "c": {
+            "item": "moretools:copper"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "moretools:copper_pickaxe",
+        "count": 1
+    }
+}

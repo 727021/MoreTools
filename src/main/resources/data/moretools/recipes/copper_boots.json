@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ "c c", "c c" ],
+    "key": {
+        "c": {
+            "item": "moretools:copper"
+        }
+    },
+    "result": {
+        "item": "moretools:copper_boots",
+        "count": 1
+    }
+}
