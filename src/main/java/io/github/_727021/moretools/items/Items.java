@@ -15,6 +15,7 @@ public class Items {
     }
 
     public static final RegistryObject<Item> COPPER = ITEMS.register("copper", ItemBase::new);
+    public static final RegistryObject<PoisonApple> POISON_APPLE = ITEMS.register("poison_apple", PoisonApple::new);
 
     // #region Item Base
     private static class ItemBase extends Item {
